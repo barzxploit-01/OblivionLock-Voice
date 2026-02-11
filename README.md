@@ -22,7 +22,7 @@ sudo apt install python3 python3-pip mpv git -y
 pip3 install gTTS googletrans==4.0.0-rc1
 
 - Menjalankan Tools -
-git clone https://github.com/barzxploit-01/OblivionLock-Voice.git
+git clone https://github.com/barzxploit-01/OblivionLock-Voice
 cd OblivionLock-Voice
 python OblivionLock-Voice_hard.py
 
